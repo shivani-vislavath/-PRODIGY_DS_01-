@@ -117,7 +117,7 @@ SWITCH(TRUE(),
 
 ## 📁 Files Included
 
-* `Prodigy_Task_Customer_Insights.pbix` - Power BI dashboard
+*https://github.com/shivani-vislavath/-PRODIGY_DS_01-/blob/main/customer_demographics_Dashboard.pbix - Power BI dashboard
 * https://github.com/shivani-vislavath/-PRODIGY_DS_01-/blob/main/Dashboard_preview.png.png - Dashboard screenshot
 
 ---
